@@ -1,0 +1,13 @@
+[27-Feb-2024 18:30:15 America/Fortaleza] PHP Warning:  include_once(/home1/encode80/public_html/barberRR/admin/../bd/conexao.php): Failed to open stream: No such file or directory in /home1/encode80/public_html/barberRR/admin/login.php on line 40
+[27-Feb-2024 18:30:15 America/Fortaleza] PHP Warning:  include_once(): Failed opening '/home1/encode80/public_html/barberRR/admin/../bd/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/encode80/public_html/barberRR/admin/login.php on line 40
+[27-Feb-2024 18:30:22 America/Fortaleza] PHP Warning:  include_once(/home1/encode80/public_html/barberRR/admin/../bd/conexao.php): Failed to open stream: No such file or directory in /home1/encode80/public_html/barberRR/admin/login.php on line 40
+[27-Feb-2024 18:30:22 America/Fortaleza] PHP Warning:  include_once(): Failed opening '/home1/encode80/public_html/barberRR/admin/../bd/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/encode80/public_html/barberRR/admin/login.php on line 40
+[27-Feb-2024 18:30:25 America/Fortaleza] PHP Warning:  include_once(/home1/encode80/public_html/barberRR/admin/../bd/conexao.php): Failed to open stream: No such file or directory in /home1/encode80/public_html/barberRR/admin/login.php on line 40
+[27-Feb-2024 18:30:25 America/Fortaleza] PHP Warning:  include_once(): Failed opening '/home1/encode80/public_html/barberRR/admin/../bd/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/encode80/public_html/barberRR/admin/login.php on line 40
+[27-Feb-2024 18:30:25 America/Fortaleza] PHP Warning:  Undefined variable $conexao in /home1/encode80/public_html/barberRR/admin/login.php on line 48
+[27-Feb-2024 18:30:25 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/encode80/public_html/barberRR/admin/login.php:48
+Stack trace:
+#0 {main}
+  thrown in /home1/encode80/public_html/barberRR/admin/login.php on line 48
+[27-Feb-2024 18:30:27 America/Fortaleza] PHP Warning:  include_once(/home1/encode80/public_html/barberRR/admin/../bd/conexao.php): Failed to open stream: No such file or directory in /home1/encode80/public_html/barberRR/admin/login.php on line 40
+[27-Feb-2024 18:30:27 America/Fortaleza] PHP Warning:  include_once(): Failed opening '/home1/encode80/public_html/barberRR/admin/../bd/conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home1/encode80/public_html/barberRR/admin/login.php on line 40
